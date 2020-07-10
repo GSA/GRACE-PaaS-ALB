@@ -1,4 +1,4 @@
-# Project
+# GRACE PaaS Load Balancer
 
 ## Repository contents
 
